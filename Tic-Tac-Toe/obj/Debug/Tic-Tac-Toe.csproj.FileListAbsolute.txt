@@ -1,0 +1,8 @@
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\morri\source\repos\csharp-games\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb

@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\GuessTheNumber",
-    "\\GuessTheNumber\\Properties",
-    "\\Tic-Tac-Toe"
+    "\\GuessTheNumber\\Properties"
   ],
-  "SelectedNode": "\\GuessTheNumber\\GuessTheNumber.csproj",
   "PreviewInSolutionExplorer": false
 }
