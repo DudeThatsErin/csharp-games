@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GuessTheNumber",
+    "\\GuessTheNumber\\Properties",
+    "\\Tic-Tac-Toe"
   ],
-  "SelectedNode": "\\C:\\Users\\morri\\Source\\Repos\\csharp-games",
+  "SelectedNode": "\\GuessTheNumber\\GuessTheNumber.csproj",
   "PreviewInSolutionExplorer": false
 }

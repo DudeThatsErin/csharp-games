@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{10E6E30D-934E-481B-B1F4-8A130BDDEB69}</ProjectGuid>
+    <ProjectGuid>{B5B337A7-A5EB-4E4C-BA0B-351A76B331D9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C# Games</RootNamespace>
-    <AssemblyName>C# Games</AssemblyName>
+    <RootNamespace>GuessTheNumber2</RootNamespace>
+    <AssemblyName>GuessTheNumber2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

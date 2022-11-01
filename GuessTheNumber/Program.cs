@@ -12,15 +12,15 @@ namespace HelloWorld
 
             Console.WriteLine("I am thinking of a number between 1-100. Can you guess what it is?");
 
-            while(Guess != returnValue)
+            while (Guess != returnValue)
             {
                 Guess = Convert.ToInt32(Console.ReadLine());
 
-                if(Guess < returnValue)
+                if (Guess < returnValue)
                 {
                     Console.WriteLine("No, the number I am thinking of is higher than " + Guess);
                 }
-                else if(Guess > returnValue)
+                else if (Guess > returnValue)
                 {
                     Console.WriteLine("No, the number I am thinking of is lower than " + Guess);
                 }
