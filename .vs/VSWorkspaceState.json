@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\GuessTheNumber",
-    "\\GuessTheNumber\\Properties"
+    "\\GuessTheNumber\\Properties",
+    "\\Tic-Tac-Toe"
   ],
+  "SelectedNode": "\\LICENSE",
   "PreviewInSolutionExplorer": false
 }
